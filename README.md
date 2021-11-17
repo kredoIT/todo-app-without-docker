@@ -12,7 +12,7 @@
 2. $ composer install
 3. $ php artisan key:generate
 4. $ php artisan config:cache
-5. $ php artisan migrate:
+5. $ php artisan migrate
      [to migrate tables make sure your DB_DATABASE in your env already exist]
 
 6. $ php artisan serve
@@ -43,4 +43,3 @@ $ php artisan route:list
 to link the storage
 $ php artisan storage:link
 ```
-
