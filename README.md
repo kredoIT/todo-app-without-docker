@@ -19,7 +19,7 @@
 ```
 
 ### FYI
-#### if your having trouble in using the default ports
+#### if you're having trouble in using the default ports
 ```
 $ php artisan serve --port=YOUR_DESIRED_PORT
  [ex] php artisan serve --port=9090
